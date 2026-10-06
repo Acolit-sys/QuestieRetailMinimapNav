@@ -1,0 +1,17 @@
+Questie Retail Minimap Navigation
+Copyright (c) 2026 Acolit-sys
+
+The MIT License in LICENSE covers this addon's code and its documentation.
+
+It does NOT cover the arrow textures `arrow_body.tga` and `arrow_gloss.tga`, nor the
+images in `screenshots/`. Those are our rework of `poi-corpse.tga` from DragonUI, which
+is World of Warcraft user-interface artwork that is (c) Blizzard Entertainment, Inc.
+We claim no rights over them; they are shipped only so the addon can draw its arrow
+inside the game, the same way the client draws the original.
+
+Third-party components, credits, and the full wording:
+
+  - LICENSES/DragonUI-MIT.txt — the MIT notice of DragonUI, the addon the arrow texture was
+    obtained from, reproduced to satisfy that notice's attribution condition
+  - THIRD_PARTY_NOTICES.md
+  - README.md (sections "License" and "Credits")

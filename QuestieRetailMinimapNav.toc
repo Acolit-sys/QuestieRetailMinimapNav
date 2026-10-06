@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Questie Retail Minimap Navigation
+## Notes: Retail-style quest navigation arrow for the DragonUI minimap, using Questie-335 as the data source
+## Author: Acolit-sys
+## Version: 1.1.0
+## X-License: MIT
+## RequiredDeps: Questie-335
+## OptionalDeps: DragonUI
+## LoadWith: Questie-335
+## SavedVariables: QRNNavDB
+
+QuestieRetailMinimapNav.lua
